@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "date": "12-12-2023",
+      "price": 1000,
+      "quantity": 10,
+      "image": "https://th.bing.com/th/id/OIP.fU1OBf6zpJvfSZ0HMOqudQHaHy?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "date": "12-12-2023",
+      "price": 2000,
+      "quantity": 5,
+      "image": "https://th.bing.com/th/id/OIP.fU1OBf6zpJvfSZ0HMOqudQHaHy?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "date": "12-12-2023",
+      "price": 4000,
+      "quantity": 15,
+      "image": "https://th.bing.com/th/id/OIP.fU1OBf6zpJvfSZ0HMOqudQHaHy?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Product 6",
+      "image": "https://th.bing.com/th/id/OIP.h9UI5crKraQCQtxzNhel5gHaFj?rs=1&pid=ImgDetMain",
+      "price": "10000",
+      "quantity": "2",
+      "date": "2024-10-09",
+      "id": 6
+    }
+  ]
+}
